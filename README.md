@@ -48,7 +48,11 @@ Esse projeto está sob a licença MIT.
 
 https://explorerlab-rocketpay.netlify.app
 
-Nota: Como desafio eu adicionei a bandeira Elo.
+Nota: Como desafio, eu adicionei a bandeira Elo.
+
+<p align="center">
+  <img alt="Cartoes" src="https://user-images.githubusercontent.com/45604519/197578677-87d55114-b33a-4d2a-b2dc-0e336ad4e04c.png">
+</p>
 
 ---
 
