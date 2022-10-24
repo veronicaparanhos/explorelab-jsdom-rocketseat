@@ -48,7 +48,7 @@ Esse projeto está sob a licença MIT.
 
 https://explorerlab-rocketpay.netlify.app
 
-Nota: Como desafio eu adicionei a bandeira Elo (para testar digite um número de cartão começando com 67)
+Nota: Como desafio eu adicionei a bandeira Elo.
 
 ---
 
