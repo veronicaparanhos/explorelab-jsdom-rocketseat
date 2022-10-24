@@ -1,3 +1,4 @@
+
 <h1 align="center"> Explorer Lab #01 </h1>
 
 <p align="center">
@@ -42,6 +43,12 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
+
+## 😀 Deploy
+
+https://explorerlab-rocketpay.netlify.app
+
+Nota: Como desafio eu adicionei a bandeira Elo (para testar digite um número de cartão começando com 67)
 
 ---
 
