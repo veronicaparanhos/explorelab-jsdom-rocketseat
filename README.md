@@ -46,7 +46,7 @@ Esse projeto está sob a licença MIT.
 
 ## 😀 Deploy
 
-https://explorerlab-rocketpay.netlify.app
+[Link do projeto] (https://explorerlab-rocketpay.netlify.app)
 
 Nota: Como desafio, eu adicionei a bandeira Elo.
 
